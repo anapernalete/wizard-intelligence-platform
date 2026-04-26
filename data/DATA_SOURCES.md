@@ -32,4 +32,15 @@ This project will use multiple data sources to build an end-to-end Harry Potter-
 - Create EDA notebooks
 - Build ML models
 
+## Source 1: Harry Potter Spells Compendium
+
+- Source: Kaggle
+- Data type: Structured spell data
+- Raw file: `data/raw/spells.csv`
+- Planned use:
+  - Spell cleaning
+  - Spell category analysis
+  - NLP on spell effects
+  - Spell recommender system
+
 WIP
