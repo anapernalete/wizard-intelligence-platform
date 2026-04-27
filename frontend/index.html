@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Wizard Spell Classifier</title>
+</head>
+<body>
+    <h1>Spell Classifier</h1>
+
+    <input id="inputText" placeholder="Enter spell description..." style="width:300px;">
+    <button onclick="predict()">Predict</button>
+
+    <h3 id="result"></h3>
+
+    <script>
+        async function predict() {
+            const text = document.getElementById("inputText").value;
+
+            const response = await fetch("http://127.0.0.1:8000/predict-spell", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ description: text })
+            });
+
+            const data = await response.json();
+
+            document.getElementById("result").innerText =
+                "Prediction: " + data.prediction;
+        }
+    </script>
+</body>
+</html>
