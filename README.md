@@ -1,6 +1,10 @@
 # Wizard Intelligence Platform
 
-An end-to-end machine learning + full-stack project that classifies Harry Potter spells as **dark** or **non-dark** using NLP.
+## Project Summary
+
+## Project Summary
+
+Built an end-to-end NLP classification system inspired by the Harry Potter universe to classify spells as `dark` or `non-dark`. Leveraged Python, scikit-learn, and TF-IDF for text processing, deployed the model using FastAPI, and integrated it with a frontend interface for real-time predictions.
 
 ---
 
