@@ -1,0 +1,78 @@
+name,description,description_clean,description_length,label
+Aberto,Opens locked doors,opens locked doors,18,non-dark
+Accio,Summons objects,summons objects,15,non-dark
+Aguamenti,Summons water,summons water,13,non-dark
+Alohomora,Unlocks objects,unlocks objects,15,non-dark
+Anapneo,Clears someone's airway,clears someone's airway,23,non-dark
+Aparecium,Reveals secret written messages,reveals secret written messages,31,non-dark
+Apparate,A non-verbal transportation spell that allows a witch or wizard to instantly travel on the spot and appear at another location (disapparate is the opposite),a non-verbal transportation spell that allows a witch or wizard to instantly travel on the spot and appear at another location (disapparate is the opposite),156,non-dark
+Ascendio,Propells someone into the air,propells someone into the air,29,non-dark
+Avada Kedavra,"Also known as The Killing Curse, the most evil spell in the Wizarding World; one of three Unforgivable Curses; Harry Potter is the only known witch or wizard to survive it","also known as the killing curse, the most evil spell in the wizarding world; one of three unforgivable curses; harry potter is the only known witch or wizard to survive it",171,dark
+Avis,Conjures a small flock of birds,conjures a small flock of birds,31,non-dark
+Bat,Bogey Hex - Turns the target's boogers into bats,bogey hex - turns the target's boogers into bats,48,non-dark
+Bombardo,Creates an explosion,creates an explosion,20,non-dark
+Brackium Emendo,Heals broken bones,heals broken bones,18,non-dark
+Capacious Extremis,"Known as the Extension Charm, it's a complicated spell that can greatly expand or extend the capacity of an object or space without affecting it externally","known as the extension charm, it's a complicated spell that can greatly expand or extend the capacity of an object or space without affecting it externally",155,non-dark
+Confundo,"Known as the Confundus Charm, it causes confusion of the target","known as the confundus charm, it causes confusion of the target",63,non-dark
+Conjunctivitis Curse,Affects the eyes and sight of a target,affects the eyes and sight of a target,38,non-dark
+Crinus Muto,Changes hair color and style,changes hair color and style,28,non-dark
+Crucio,"One of three Unforgivable Curses, it causes unbearable pain in the target","one of three unforgivable curses, it causes unbearable pain in the target",73,dark
+Diffindo,Used to precisely cut an object,used to precisely cut an object,31,non-dark
+Disillusionment Charm,Causes the target to take on the appearance of its surroundings,causes the target to take on the appearance of its surroundings,63,non-dark
+Disapparate,A non-verbal transportation spell that allows a witch or wizard to instantly travel on the spot and leave for another location (apparate is the opposite),a non-verbal transportation spell that allows a witch or wizard to instantly travel on the spot and leave for another location (apparate is the opposite),153,non-dark
+Engorgio,Causes rapid growth in the targeted object,causes rapid growth in the targeted object,42,non-dark
+Episkey,Heals minor injuries,heals minor injuries,20,non-dark
+Expecto patronum,"The Patronus Charm is a powerful projection of hope and happiness that drives away Dementors; a corpeal Patronus takes the the respective animal form of the caster, while a non-corpeal appears as a wisp of light; at 13, Harry Potter was the youngest known witch or wizard to prouduce a corpeal Patronus","the patronus charm is a powerful projection of hope and happiness that drives away dementors; a corpeal patronus takes the the respective animal form of the caster, while a non-corpeal appears as a wisp of light; at 13, harry potter was the youngest known witch or wizard to prouduce a corpeal patronus",302,non-dark
+Erecto,"Allows a witch or wizard to build a structure, like a tent","allows a witch or wizard to build a structure, like a tent",58,non-dark
+Evanesco,Vanishes objects,vanishes objects,16,non-dark
+Expelliarmus,Forces an opponent to drop whatever's in their possession,forces an opponent to drop whatever's in their possession,57,non-dark
+Ferula,A healing charm that conjures wraps and bandages for wounds,a healing charm that conjures wraps and bandages for wounds,59,non-dark
+Fidelius Charm,"A complex charm that conceals a secret into the soul of a chosen ""Secret Keeper"". If a location is the subject of concealment, it becomes undetectable to others","a complex charm that conceals a secret into the soul of a chosen ""secret keeper"". if a location is the subject of concealment, it becomes undetectable to others",160,non-dark
+Fiendfyre Curse,"Conjures destructive, enormous enchanted flames","conjures destructive, enormous enchanted flames",47,non-dark
+Finite Incantatem,A general counter-spell that's used to reverse or counter already cast charms,a general counter-spell that's used to reverse or counter already cast charms,77,non-dark
+Furnunculus Curse,A jinx that causes a breakout of boils or pimples,a jinx that causes a breakout of boils or pimples,49,non-dark
+Geminio,Duplicates objects,duplicates objects,18,non-dark
+Glisseo,Transforms a staircase into a slide,transforms a staircase into a slide,35,non-dark
+Homenum Revelio,Reveals the presence of another person,reveals the presence of another person,38,non-dark
+Homonculus Charm,Detects anyone's true identity and location on a piece of parchment; used to create the Marauder's Map,detects anyone's true identity and location on a piece of parchment; used to create the marauder's map,102,non-dark
+Immobulus,Immobilises living targets,immobilises living targets,26,non-dark
+Impedimenta,A temporary jinx that slows the movement of the target,a temporary jinx that slows the movement of the target,54,non-dark
+Incarcerous,Conjures ropes,conjures ropes,14,non-dark
+Imperio,"One of the three Unforgivable Curses, it places the target under the complete control of the caster","one of the three unforgivable curses, it places the target under the complete control of the caster",99,dark
+Impervius,Makes an object waterproof,makes an object waterproof,26,non-dark
+Incendio,Conjures flames,conjures flames,15,non-dark
+Langlock,Causes the target's tongue to stick to the roof of their mouth,causes the target's tongue to stick to the roof of their mouth,62,non-dark
+Legilimens,Invading or navigating another's mind,invading or navigating another's mind,37,non-dark
+Levicorpus,Levitates the target by their ankle,levitates the target by their ankle,35,non-dark
+Locomotor Mortis,The Leg-Locker curse bounds the target's legs,the leg-locker curse bounds the target's legs,45,non-dark
+Lumos,Illuminates the caster's wand,illuminates the caster's wand,29,non-dark
+Morsmordre,Conjures and projects Lord Voldemort's Dark Mark,conjures and projects lord voldemort's dark mark,48,dark
+Mucus Ad Nauseam,Inflicts an extreme runny nose or cold,inflicts an extreme runny nose or cold,38,non-dark
+Muffliato,Creates a buzzing sound in the target's ears to prevent eavesdropping,creates a buzzing sound in the target's ears to prevent eavesdropping,69,non-dark
+Nox,"Reverses the lumos charm, extinguishing a wand's light","reverses the lumos charm, extinguishing a wand's light",54,non-dark
+Obliviate,Erases the target's memory,erases the target's memory,26,non-dark
+Obscuro,Conjures a blindfold,conjures a blindfold,20,non-dark
+Oculus Reparo,Repairs eyeglasses,repairs eyeglasses,18,non-dark
+Oppugno,Directs an object or person to attack a victim,directs an object or person to attack a victim,46,non-dark
+Petrificus Totalus,Temporarily freezes or petrifies the body of the target,temporarily freezes or petrifies the body of the target,55,non-dark
+Periculum,Conjures flares/red sparks,conjures flares/red sparks,26,non-dark
+Piertotum Locomotor,Incantation used to bring to life inanimate objects and artifacts,incantation used to bring to life inanimate objects and artifacts,65,non-dark
+Protean Charm,Links objects together for better communication,links objects together for better communication,47,non-dark
+Protego,"Casts an invisible shield around the caster, protecting against spells and objects (except for The Killing Curse)","casts an invisible shield around the caster, protecting against spells and objects (except for the killing curse)",113,non-dark
+Reducto,Reduces the target to pieces,reduces the target to pieces,28,non-dark
+Reducio,Shrinks an enlarged object to its regular size,shrinks an enlarged object to its regular size,46,non-dark
+Renneverate,Awakens or revives the target,awakens or revives the target,29,non-dark
+Reparifors,Heals magical ailments like poisoning or paralysis,heals magical ailments like poisoning or paralysis,50,non-dark
+Reparo,Fixes broken objects,fixes broken objects,20,non-dark
+Rictusempra,A charm that disarms an opponent by tickling them,a charm that disarms an opponent by tickling them,49,non-dark
+Riddikulus,"Used to defeat a Boggart, the charm allows the scary creature to assume a comedic form, disarming it","used to defeat a boggart, the charm allows the scary creature to assume a comedic form, disarming it",100,non-dark
+Scourgify,Cleans objects,cleans objects,14,non-dark
+Sectumsempra,Inflicts severe lacerations and haemorrhaging on the target,inflicts severe lacerations and haemorrhaging on the target,59,dark
+Serpensortia,Conjures a live snake,conjures a live snake,21,non-dark
+Silencio,Silences the target,silences the target,19,non-dark
+Sonorus,Amplifies the witch or wizard's voice,amplifies the witch or wizard's voice,37,non-dark
+Spongify,Softens the target,softens the target,18,non-dark
+Stupefy,The Stunning spell freezes objects and renders living targets unconscious,the stunning spell freezes objects and renders living targets unconscious,73,non-dark
+Tarantallegra,"Aimed at the legs, causes uncontrollable dancing movement","aimed at the legs, causes uncontrollable dancing movement",57,non-dark
+Unbreakable Vow,A magically binding contract that results in the death of whoever breaks it,a magically binding contract that results in the death of whoever breaks it,75,dark
+Wingardium Leviosa,"Causes an object to levitate; but remember what Hermione said: ""It's Wing-gar-dium Levi-o-sa, make the 'gar' nice and long.'""","causes an object to levitate; but remember what hermione said: ""it's wing-gar-dium levi-o-sa, make the 'gar' nice and long.'""",125,non-dark
