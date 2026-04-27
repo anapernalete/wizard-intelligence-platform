@@ -1,17 +1,8 @@
 from fastapi import FastAPI
-from pydantic import BaseModel
-import joblib
-from pathlib import Path
+from backend.schemas import SpellRequest
+from backend.model_utils import predict_text
 
 app = FastAPI()
-
-BASE_DIR = Path(__file__).resolve().parent.parent
-
-model = joblib.load(BASE_DIR / "ml/models/spell_classifier.pkl")
-vectorizer = joblib.load(BASE_DIR / "ml/models/tfidf_vectorizer.pkl")
-
-class SpellRequest(BaseModel):
-    description: str
 
 @app.get("/")
 def read_root():
@@ -19,9 +10,7 @@ def read_root():
 
 @app.post("/predict-spell")
 def predict_spell(request: SpellRequest):
-    text = request.description.lower().strip()
-    X_new = vectorizer.transform([text])
-    prediction = model.predict(X_new)[0]
+    prediction = predict_text(request.description)
     
     return {
         "description": request.description,
