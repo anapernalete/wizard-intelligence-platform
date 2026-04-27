@@ -2,14 +2,58 @@
 <html>
 <head>
     <title>Wizard Spell Classifier</title>
+    <style>
+        body {
+            font-family: Georgia, serif;
+            background: #1c1b2f;
+            color: #f5e6c8;
+            text-align: center;
+            padding: 60px;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background: #2d2a45;
+            padding: 40px;
+            border-radius: 16px;
+            box-shadow: 0 0 20px rgba(0,0,0,0.4);
+        }
+
+        input {
+            width: 80%;
+            padding: 12px;
+            border-radius: 8px;
+            border: none;
+            margin-top: 20px;
+        }
+
+        button {
+            margin-top: 20px;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+
+        #result {
+            margin-top: 30px;
+            font-size: 24px;
+        }
+    </style>
 </head>
 <body>
-    <h1>Spell Classifier</h1>
+    <div class="container">
+        <h1>🧙 Wizard Spell Classifier</h1>
+        <p>Enter a spell description to classify it as dark or non-dark magic.</p>
 
-    <input id="inputText" placeholder="Enter spell description..." style="width:300px;">
-    <button onclick="predict()">Predict</button>
+        <input id="inputText" placeholder="Example: Avada Kedavra killing curse">
+        <br>
+        <button onclick="predict()">Predict</button>
 
-    <h3 id="result"></h3>
+        <h3 id="result"></h3>
+    </div>
 
     <script>
         async function predict() {
