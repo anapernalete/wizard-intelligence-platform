@@ -8,6 +8,13 @@ app = FastAPI()
 def read_root():
     return {"message":"Wizard API is running!"}
 
+@app.get("/health")
+def health_check():
+    return {
+        "status": "healthy",
+        "model_loaded": True
+    }
+
 @app.post("/predict-spell")
 def predict_spell(request: SpellRequest):
     prediction = predict_text(request.description)
