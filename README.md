@@ -15,7 +15,7 @@ The aim is to simulate a real-world AI product by combining data science, softwa
 
 ---
 
-## 🔮 Planned Features
+## Planned Features
 
 Future components of this platform include:
 
