@@ -1,23 +1,57 @@
 # Wizard Intelligence Platform
 
-## Project Summary
+## 🧭 Project Vision
 
-## Project Summary
+This project is part of a larger goal: building a full-stack, end-to-end AI system inspired by the Harry Potter universe.
 
-Built an end-to-end NLP classification system inspired by the Harry Potter universe to classify spells as `dark` or `non-dark`. Leveraged Python, scikit-learn, and TF-IDF for text processing, deployed the model using FastAPI, and integrated it with a frontend interface for real-time predictions.
+The current implementation focuses on **spell classification**, but the long-term vision is to expand this into a broader platform that integrates:
+
+- machine learning models
+- data pipelines
+- backend APIs
+- interactive frontend experiences
+
+The aim is to simulate a real-world AI product by combining data science, software engineering, and user-facing applications.
 
 ---
 
-## Overview
+## 🔮 Planned Features
 
-This project demonstrates a complete ML pipeline:
+Future components of this platform include:
 
-- Data collection and cleaning
-- Feature engineering (TF-IDF)
-- Text classification model (Logistic Regression)
-- FastAPI backend for predictions
-- Simple frontend interface for user interaction
+- 🏠 **Sorting Hat Model**
+  - Classify users into Hogwarts houses based on personality data
 
+- 🔮 **Spell Recommendation System**
+  - Suggest spells based on user traits or context (content-based filtering)
+
+- 📊 **Wizarding World Analytics Dashboard**
+  - Visualize patterns in spells, houses, and character traits
+
+- 🤖 **Character Chat Interface**
+  - Interact with AI personas (e.g., Hermione, Snape) using NLP
+
+- 🎙️ **Audio Processing (Future)**
+  - Detect speech vs magic-related content (ties into audio ML work)
+
+---
+
+## 🧪 Current Module: Spell Classifier
+
+The current version implements a baseline NLP classifier that predicts whether a spell is:
+
+- `dark`
+- `non-dark`
+
+This module demonstrates:
+
+- data cleaning and preprocessing
+- feature engineering (TF-IDF)
+- model training and evaluation
+- API deployment with FastAPI
+- frontend integration
+
+This serves as the foundation for expanding the system into more advanced ML applications.
 ---
 
 ## How It Works
