@@ -21,14 +21,14 @@ Diffindo,Used to precisely cut an object,used to precisely cut an object,31,non-
 Disillusionment Charm,Causes the target to take on the appearance of its surroundings,causes the target to take on the appearance of its surroundings,63,non-dark
 Disapparate,A non-verbal transportation spell that allows a witch or wizard to instantly travel on the spot and leave for another location (apparate is the opposite),a non-verbal transportation spell that allows a witch or wizard to instantly travel on the spot and leave for another location (apparate is the opposite),153,non-dark
 Engorgio,Causes rapid growth in the targeted object,causes rapid growth in the targeted object,42,non-dark
-Episkey,Heals minor injuries,heals minor injuries,20,non-dark
-Expecto patronum,"The Patronus Charm is a powerful projection of hope and happiness that drives away Dementors; a corpeal Patronus takes the the respective animal form of the caster, while a non-corpeal appears as a wisp of light; at 13, Harry Potter was the youngest known witch or wizard to prouduce a corpeal Patronus","the patronus charm is a powerful projection of hope and happiness that drives away dementors; a corpeal patronus takes the the respective animal form of the caster, while a non-corpeal appears as a wisp of light; at 13, harry potter was the youngest known witch or wizard to prouduce a corpeal patronus",302,non-dark
+Episkey,heals minor injuries quickly,heals minor injuries quickly,28,non-dark
+Expecto patronum,summons a protective spirit to repel dark entities,summons a protective spirit to repel dark entities,50,non-dark
 Erecto,"Allows a witch or wizard to build a structure, like a tent","allows a witch or wizard to build a structure, like a tent",58,non-dark
 Evanesco,Vanishes objects,vanishes objects,16,non-dark
 Expelliarmus,Forces an opponent to drop whatever's in their possession,forces an opponent to drop whatever's in their possession,57,non-dark
 Ferula,A healing charm that conjures wraps and bandages for wounds,a healing charm that conjures wraps and bandages for wounds,59,non-dark
 Fidelius Charm,"A complex charm that conceals a secret into the soul of a chosen ""Secret Keeper"". If a location is the subject of concealment, it becomes undetectable to others","a complex charm that conceals a secret into the soul of a chosen ""secret keeper"". if a location is the subject of concealment, it becomes undetectable to others",160,non-dark
-Fiendfyre Curse,"Conjures destructive, enormous enchanted flames","conjures destructive, enormous enchanted flames",47,non-dark
+Fiendfyre Curse,"Conjures destructive, enormous enchanted flames","conjures destructive, enormous enchanted flames",47,dark
 Finite Incantatem,A general counter-spell that's used to reverse or counter already cast charms,a general counter-spell that's used to reverse or counter already cast charms,77,non-dark
 Furnunculus Curse,A jinx that causes a breakout of boils or pimples,a jinx that causes a breakout of boils or pimples,49,non-dark
 Geminio,Duplicates objects,duplicates objects,18,non-dark
@@ -49,7 +49,7 @@ Lumos,Illuminates the caster's wand,illuminates the caster's wand,29,non-dark
 Morsmordre,Conjures and projects Lord Voldemort's Dark Mark,conjures and projects lord voldemort's dark mark,48,dark
 Mucus Ad Nauseam,Inflicts an extreme runny nose or cold,inflicts an extreme runny nose or cold,38,non-dark
 Muffliato,Creates a buzzing sound in the target's ears to prevent eavesdropping,creates a buzzing sound in the target's ears to prevent eavesdropping,69,non-dark
-Nox,"Reverses the lumos charm, extinguishing a wand's light","reverses the lumos charm, extinguishing a wand's light",54,non-dark
+Nox,extinguishes light from the wand,extinguishes light from the wand,32,non-dark
 Obliviate,Erases the target's memory,erases the target's memory,26,non-dark
 Obscuro,Conjures a blindfold,conjures a blindfold,20,non-dark
 Oculus Reparo,Repairs eyeglasses,repairs eyeglasses,18,non-dark
@@ -66,7 +66,7 @@ Reparifors,Heals magical ailments like poisoning or paralysis,heals magical ailm
 Reparo,Fixes broken objects,fixes broken objects,20,non-dark
 Rictusempra,A charm that disarms an opponent by tickling them,a charm that disarms an opponent by tickling them,49,non-dark
 Riddikulus,"Used to defeat a Boggart, the charm allows the scary creature to assume a comedic form, disarming it","used to defeat a boggart, the charm allows the scary creature to assume a comedic form, disarming it",100,non-dark
-Scourgify,Cleans objects,cleans objects,14,non-dark
+Scourgify,cleans surfaces and removes dirt,cleans surfaces and removes dirt,32,non-dark
 Sectumsempra,Inflicts severe lacerations and haemorrhaging on the target,inflicts severe lacerations and haemorrhaging on the target,59,dark
 Serpensortia,Conjures a live snake,conjures a live snake,21,non-dark
 Silencio,Silences the target,silences the target,19,non-dark
@@ -75,4 +75,29 @@ Spongify,Softens the target,softens the target,18,non-dark
 Stupefy,The Stunning spell freezes objects and renders living targets unconscious,the stunning spell freezes objects and renders living targets unconscious,73,non-dark
 Tarantallegra,"Aimed at the legs, causes uncontrollable dancing movement","aimed at the legs, causes uncontrollable dancing movement",57,non-dark
 Unbreakable Vow,A magically binding contract that results in the death of whoever breaks it,a magically binding contract that results in the death of whoever breaks it,75,dark
-Wingardium Leviosa,"Causes an object to levitate; but remember what Hermione said: ""It's Wing-gar-dium Levi-o-sa, make the 'gar' nice and long.'""","causes an object to levitate; but remember what hermione said: ""it's wing-gar-dium levi-o-sa, make the 'gar' nice and long.'""",125,non-dark
+Wingardium Leviosa,levitates objects into the air,levitates objects into the air,30,non-dark
+Maledictus Curse,causes unbearable pain to the target,causes unbearable pain to the target,36,dark
+Tenebris Hex,kills instantly without warning,kills instantly without warning,31,dark
+Dominium Curse,controls the victim’s mind completely,controls the victim’s mind completely,37,dark
+Tormenta Curse,inflicts severe damage and suffering,inflicts severe damage and suffering,36,dark
+Infernum Spell,creates destructive magical energy,creates destructive magical energy,34,dark
+Debilitus Hex,weakens the victim until collapse,weakens the victim until collapse,33,dark
+Obedientia Curse,forces obedience through magical control,forces obedience through magical control,40,dark
+Doloris Charm,causes violent internal pain,causes violent internal pain,28,dark
+Vitalis Drain,drains life energy from the target,drains life energy from the target,34,dark
+Mortifer Spell,produces deadly magical force,produces deadly magical force,29,dark
+Lumina Charm,creates a small light source,creates a small light source,28,non-dark
+Refecto Spell,repairs broken objects,repairs broken objects,22,non-dark
+Leviosa Minor,gently levitates objects,gently levitates objects,24,non-dark
+Illusio Charm,produces a harmless visual effect,produces a harmless visual effect,33,non-dark
+Purgo Charm,cleans and organizes surroundings,cleans and organizes surroundings,33,non-dark
+Aegis Minor,generates a soft protective barrier,generates a soft protective barrier,35,non-dark
+Claritas Spell,enhances visibility in dark areas,enhances visibility in dark areas,33,non-dark
+Accio Minor,summons a small object safely,summons a small object safely,29,non-dark
+Calor Charm,warms the surrounding environment,warms the surrounding environment,33,non-dark
+Serenus Spell,creates a calming magical effect,creates a calming magical effect,32,non-dark
+Lumos Maxima,creates a powerful beam of light,creates a powerful beam of light,32,non-dark
+Reparo Maxima,repairs heavily damaged objects,repairs heavily damaged objects,31,non-dark
+Alohomora Maxima,unlocks complex magical locks,unlocks complex magical locks,29,non-dark
+Accio Firebolt,summons a distant object quickly,summons a distant object quickly,32,non-dark
+Protego Maxima,creates a strong protective shield,creates a strong protective shield,34,non-dark
