@@ -11,8 +11,6 @@ The current implementation focuses on **spell classification**, but the long-ter
 - backend APIs
 - interactive frontend experiences
 
-The aim is to simulate a real-world AI product by combining data science, software engineering, and user-facing applications.
-
 ---
 
 ## Planned Features
