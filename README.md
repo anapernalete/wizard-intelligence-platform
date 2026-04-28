@@ -1,6 +1,6 @@
 # Wizard Intelligence Platform
 
-## 🧭 Project Vision
+## Project Vision
 
 This project is part of a larger goal: building a full-stack, end-to-end AI system inspired by the Harry Potter universe.
 
@@ -19,24 +19,24 @@ The aim is to simulate a real-world AI product by combining data science, softwa
 
 Future components of this platform include:
 
-- 🏠 **Sorting Hat Model**
+- **Sorting Hat Model**
   - Classify users into Hogwarts houses based on personality data
 
-- 🔮 **Spell Recommendation System**
+- **Spell Recommendation System**
   - Suggest spells based on user traits or context (content-based filtering)
 
-- 📊 **Wizarding World Analytics Dashboard**
+- **Wizarding World Analytics Dashboard**
   - Visualize patterns in spells, houses, and character traits
 
-- 🤖 **Character Chat Interface**
+- **Character Chat Interface**
   - Interact with AI personas (e.g., Hermione, Snape) using NLP
 
-- 🎙️ **Audio Processing (Future)**
+- **Audio Processing (Future)**
   - Detect speech vs magic-related content (ties into audio ML work)
 
 ---
 
-## 🧪 Current Module: Spell Classifier
+## Current Module: Spell Classifier
 
 The current version implements a baseline NLP classifier that predicts whether a spell is:
 
